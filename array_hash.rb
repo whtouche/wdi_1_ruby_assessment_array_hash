@@ -15,6 +15,3 @@ friend = {name: "Chris", favorite_food: "Pizza", age: 27}
 
 # Question 5
 # Write code to change the value of :favorite_food in the friend array to 'sushi'
-
-# Bonus
-# Explain in a comment when you would use a hash, and when you would use an array
