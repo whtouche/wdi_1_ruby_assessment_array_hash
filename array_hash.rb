@@ -1,3 +1,6 @@
+# Try to not use any reference for this one. If you need to use a reference, please note such in a comment below your answer. 
+# You'll still recieve credit, but its useful for me to know.
+
 # Question 1
 # On a new line, write code to insert the value `snake` at the end of the pets array. Don't modify the original array creation line.
 
